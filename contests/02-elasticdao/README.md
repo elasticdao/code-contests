@@ -22,7 +22,7 @@ layer 2 solution after launch. For this reason, most functions which would be pe
 actually executed by a multisig. This multisig will be the owner of the proxy contracts, the ElasticDAO
 controller, the burner, and the minter.
 
-Code with tests and tooling is available at https://github.com/elasticdao/contracts/tree/c657b84469ba33efd8914c7e847830d82cb0f3ca
+Code with tests and tooling is available on [our Github repo](https://github.com/elasticdao/contracts/tree/fa1c53350a31bfafb0f65e33fe517e47d1846400)
 Docs are available at https://docs.elasticdao.org
 
 ### How It Works
